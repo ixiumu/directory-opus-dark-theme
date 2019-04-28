@@ -1,2 +1,3 @@
 # directory-opus-dark-theme
-Directory Opus Dark Theme
+
+![Thumb](https://raw.githubusercontent.com/ixiumu/directory-opus-dark-theme/master/thumb.png)
